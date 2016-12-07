@@ -1,6 +1,7 @@
 ---
 title: Icons
 info: Icons used in this product.
+maturity: alpha
 ---
 
 <section class="sg-branding">
