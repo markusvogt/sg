@@ -1,0 +1,55 @@
+//Devices
+$medium-screen: 1080px;
+$tablet-screen: 768px;
+$mobile-screen: 480px;
+
+//Breakpoints
+//Neat needs to be included
+
+//Type Systems
+$roboto: "Roboto", sans-serif;
+$robotoslab: "Roboto Slab", serif;
+$fa: 'FontAwesome';
+
+//Base Fonts
+$base-font-size: 14px;
+$base-line-height: 1.5;
+
+//Heading Fonts
+$h1-font-size: 2.6rem;
+$h2-font-size: 2rem;
+$h3-font-size: 1.5rem;
+$h4-font-size: 1.1rem;
+$h5-font-size: 1rem;
+$h6-font-size: 0.9rem;
+
+//Primary Colors
+$white: #efefef;
+$black: #000000;
+$light-grey: #cccccc;
+$my-blue: #369;
+
+//Secondary Colors
+$blue: dodgerblue;
+$dark-blue: darken($blue, 12%);
+$darkest-blue: darken($blue, 20%);
+$red: tomato;
+$dark-red: darken($red, 12%);
+$darkest-red: darken($red, 20%);
+
+//Animations
+$base-duration: .2s;
+$base-timing: ease;
+
+//Base Colors
+$base-font-color: $black;
+
+//Spacing
+$large-pad: 1.5rem;
+$base-pad: 1rem;
+$small-pad: $large-pad / 2; //0.75rem
+
+//Borders
+$base-rad: 4px;
+$base-border-color: #e5e5e5;
+$base-border: 1px solid $base-border-color;
