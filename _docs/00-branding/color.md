@@ -42,5 +42,5 @@ colors:
 </section>
 
 <section>
-  <p>bla kekes</p>
+  <p>bla keks</p>
 </section>
